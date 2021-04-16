@@ -10,4 +10,5 @@ import (
 func main() {
 	fmt.Println(mascot.BestMascot())
 	fmt.Println(quote.Go())
+	fmt.Println("한글 출력 테스트")
 }
